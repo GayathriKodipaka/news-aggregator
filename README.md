@@ -1,4 +1,4 @@
-📰 News Aggregator – Spring Boot
+<img width="1916" height="881" alt="image" src="https://github.com/user-attachments/assets/839b59c1-5795-4a44-9213-0a69da438695" />📰 News Aggregator – Spring Boot
 A Spring Boot application that fetches Top Headlines from the NewsAPI and serves them via REST and a simple HTML view.
 Perfect for demonstrating Java, Spring Boot, and API integration skills.
 
@@ -23,15 +23,11 @@ Maven
 NewsAPI
 
 📦 Installation & Setup
+
 Clone the repository:
-git clone https://github.com/yourusername/news-aggregator.git
+git clone https://github.com/GayathriKodipaka/news-aggregator.git
 cd news-aggregator
 Get your free API key from NewsAPI.
-
-Add it to src/main/resources/application.properties:
-
-properties
-newsapi.key=YOUR_API_KEY
 
 Build & run the application:
 mvn spring-boot:run
